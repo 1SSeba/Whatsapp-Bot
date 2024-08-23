@@ -1,0 +1,496 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '56982509511@s.whatsapp.net',
+    fromMe: false,
+    id: '586914859C922F77A6F480E209FF4556',
+    participant: undefined
+  },
+  messageTimestamp: 1724334236,
+  pushName: 'Vinxi',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '56982509511'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dee3d45e-0288-4cf9-a5df-489ef38a675c',
+  keyword: 'key_3c7b63ae-bf44-4036-a8ff-aac1f1f4073e',
+  answer: '*Conexion Estelar*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'caa90d1280937aa1f15691b14cf0cf35'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f2b12b6-20f0-4f77-8358-f5068597825f',
+  keyword: 'ans_dee3d45e-0288-4cf9-a5df-489ef38a675c',
+  answer: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaa',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9a8bec848ef236ae23aff5b4955f6be8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56982509511@s.whatsapp.net',
+    fromMe: false,
+    id: 'A2F88D4424D69776ACC9134E8A4C0F08',
+    participant: undefined
+  },
+  messageTimestamp: 1724334240,
+  pushName: 'Vinxi',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pepe',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pepe',
+  from: '56982509511'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56982509511@s.whatsapp.net',
+    fromMe: false,
+    id: '7C11B987728338F8A3DB2F7A6BBFCFF0',
+    participant: undefined
+  },
+  messageTimestamp: 1724334242,
+  pushName: 'Vinxi',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pepe',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pepe',
+  from: '56982509511'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56982509511@s.whatsapp.net',
+    fromMe: false,
+    id: '353238E3B364CEE5F0602581BD0FCC53',
+    participant: undefined
+  },
+  messageTimestamp: 1724334244,
+  pushName: 'Vinxi',
+  broadcast: false,
+  message: Message {
+    conversation: 'Pepe',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pepe',
+  from: '56982509511'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56984791858@s.whatsapp.net',
+    fromMe: false,
+    id: 'E32290BFFC83AD61B8C611CDB15BCF05',
+    participant: undefined
+  },
+  messageTimestamp: 1724344424,
+  pushName: 'SSeba',
+  broadcast: false,
+  message: Message {
+    conversation: 'pepe',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'pepe',
+  from: '56984791858'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56984791858@s.whatsapp.net',
+    fromMe: false,
+    id: 'A4E5A87749B63D649EB0F4B324ECD1B3',
+    participant: undefined
+  },
+  messageTimestamp: 1724344427,
+  pushName: 'SSeba',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '56984791858'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dee3d45e-0288-4cf9-a5df-489ef38a675c',
+  keyword: 'key_3c7b63ae-bf44-4036-a8ff-aac1f1f4073e',
+  answer: '*Conexion Estelar*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'caa90d1280937aa1f15691b14cf0cf35'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f2b12b6-20f0-4f77-8358-f5068597825f',
+  keyword: 'ans_dee3d45e-0288-4cf9-a5df-489ef38a675c',
+  answer: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaa',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9a8bec848ef236ae23aff5b4955f6be8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56984791858@s.whatsapp.net',
+    fromMe: false,
+    id: '28A78A34CDC326EF4B9C02932AE1BDAB',
+    participant: undefined
+  },
+  messageTimestamp: 1724344430,
+  pushName: 'SSeba',
+  broadcast: false,
+  message: Message {
+    conversation: 'pepe',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'pepe',
+  from: '56984791858'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56984791858@s.whatsapp.net',
+    fromMe: false,
+    id: 'FBB29D3D1956F1E266BE9629B7626508',
+    participant: undefined
+  },
+  messageTimestamp: 1724344432,
+  pushName: 'SSeba',
+  broadcast: false,
+  message: Message {
+    conversation: 'pepe',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'pepe',
+  from: '56984791858'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56984791858@s.whatsapp.net',
+    fromMe: false,
+    id: '595C1DC7112C452BD9F199C72011BEB6',
+    participant: undefined
+  },
+  messageTimestamp: 1724344448,
+  pushName: 'SSeba',
+  broadcast: false,
+  message: Message {
+    conversation: 'ola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ola',
+  from: '56984791858'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56984791858@s.whatsapp.net',
+    fromMe: false,
+    id: '3FFB101A10CA855E97142C07A0474BBE',
+    participant: undefined
+  },
+  messageTimestamp: 1724344451,
+  pushName: 'SSeba',
+  broadcast: false,
+  message: Message {
+    conversation: 'ola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ola',
+  from: '56984791858'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56984791858@s.whatsapp.net',
+    fromMe: false,
+    id: 'D767052242CBD650EB83AA713317333C',
+    participant: undefined
+  },
+  messageTimestamp: 1724344453,
+  pushName: 'SSeba',
+  broadcast: false,
+  message: Message {
+    conversation: 'alo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'alo',
+  from: '56984791858'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dee3d45e-0288-4cf9-a5df-489ef38a675c',
+  keyword: 'key_3c7b63ae-bf44-4036-a8ff-aac1f1f4073e',
+  answer: '*Conexion Estelar*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'caa90d1280937aa1f15691b14cf0cf35'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f2b12b6-20f0-4f77-8358-f5068597825f',
+  keyword: 'ans_dee3d45e-0288-4cf9-a5df-489ef38a675c',
+  answer: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaa',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9a8bec848ef236ae23aff5b4955f6be8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56984791858@s.whatsapp.net',
+    fromMe: false,
+    id: 'F424950A68211066C708540130014196',
+    participant: undefined
+  },
+  messageTimestamp: 1724344457,
+  pushName: 'SSeba',
+  broadcast: false,
+  message: Message {
+    conversation: 'alo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'alo',
+  from: '56984791858'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2f366555-ca1b-4d0c-bc1c-4e717fb0f935',
+  keyword: 'key_16df9bb3-5a64-4c8d-b8ae-8005e17e417e',
+  answer: '*Conexion Estelar*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3bd2cda22c827b929f7fb84f4bb532e4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ba35c870-1a7f-4a0b-a4df-3933644faea3',
+  keyword: 'ans_2f366555-ca1b-4d0c-bc1c-4e717fb0f935',
+  answer: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaa',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0a272bbe564ced2d72d1573a92195a34'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56984791858@s.whatsapp.net',
+    fromMe: false,
+    id: '5A0FA6385B3A797C1B3577EEF934935B',
+    participant: undefined
+  },
+  messageTimestamp: 1724344460,
+  pushName: 'SSeba',
+  broadcast: false,
+  message: Message {
+    conversation: 'ole',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'ole',
+  from: '56984791858'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_dee3d45e-0288-4cf9-a5df-489ef38a675c',
+  keyword: 'key_3c7b63ae-bf44-4036-a8ff-aac1f1f4073e',
+  answer: '*Conexion Estelar*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'caa90d1280937aa1f15691b14cf0cf35'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_4f2b12b6-20f0-4f77-8358-f5068597825f',
+  keyword: 'ans_dee3d45e-0288-4cf9-a5df-489ef38a675c',
+  answer: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaa',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '9a8bec848ef236ae23aff5b4955f6be8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '56984791858@s.whatsapp.net',
+    fromMe: false,
+    id: '560AA9CB346162C046C7886AE889B567',
+    participant: undefined
+  },
+  messageTimestamp: 1724344464,
+  pushName: 'SSeba',
+  broadcast: false,
+  message: Message {
+    conversation: 'hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'hola',
+  from: '56984791858'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2f366555-ca1b-4d0c-bc1c-4e717fb0f935',
+  keyword: 'key_16df9bb3-5a64-4c8d-b8ae-8005e17e417e',
+  answer: '*Conexion Estelar*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '3bd2cda22c827b929f7fb84f4bb532e4'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ba35c870-1a7f-4a0b-a4df-3933644faea3',
+  keyword: 'ans_2f366555-ca1b-4d0c-bc1c-4e717fb0f935',
+  answer: 'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaaaa',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0a272bbe564ced2d72d1573a92195a34'
+}
